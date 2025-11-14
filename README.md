@@ -25,7 +25,41 @@ A modern, responsive personal portfolio website showcasing my academic journey, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/arnob-sarker-portfolio.git
+git clone https://github.com/yourusername/arnob-sarker-portfolio.git## Research Page
+
+The portfolio now includes a comprehensive Research Interests page featuring:
+
+### Current Research
+- **Food Poisoning Treatment**: Natural antimicrobial approach using pineapple (Bromelain)
+- Detailed methodology and expected outcomes
+- Research team and collaboration information
+
+### Research Interest Areas
+1. **Biochemical Engineering** - Enzyme engineering, bioprocess optimization
+2. **Biomolecular Engineering** - Protein engineering, synthetic biology
+3. **CRISPR & Gene Editing** - Advanced genome editing technologies
+4. **Protein Sequencing & Proteomics** - Mass spectrometry, structural analysis
+
+### Emerging Technologies
+- AI-Driven Protein Design (AlphaFold2)
+- Synthetic Biology
+- mRNA Therapeutics
+- Bioenergy & Biofuels
+- Precision Medicine
+- Microbiome Engineering
+
+### Cutting-Edge Technologies
+- CRISPR Base Editing 2.0
+- Prime Editing
+- Single-Cell Multi-Omics
+- Cell-Free Protein Synthesis
+- Organoid Technology
+- Nanopore Sequencing
+
+### Future Research Directions
+- Short-term, medium-term, and long-term research goals
+- Publications and presentations
+- Collaboration opportunities
 cd arnob-sarker-portfolio
 ```
 
